@@ -1,0 +1,17 @@
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\bin\Debug\CargoTracking_TunahanAliOzturk_.exe.config
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\bin\Debug\CargoTracking_TunahanAliOzturk_.exe
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\bin\Debug\CargoTracking_TunahanAliOzturk_.pdb
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.csprojAssemblyReference.cache
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.Login.resources
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.Properties.Resources.resources
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.csproj.GenerateResource.cache
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.csproj.CoreCompileInputs.cache
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.exe
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.pdb
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.HomePage.resources
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.SendingCargo.resources
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.UpdateStatus.resources
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.TakingCargo.resources
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.DeleteCargo.resources
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.splash.resources
+C:\Users\Yön\Desktop\C# Projelerim\CargoTracking\CargoTracking_TunahanAliOzturk_\CargoTracking_TunahanAliOzturk_\obj\Debug\CargoTracking_TunahanAliOzturk_.Search.resources
